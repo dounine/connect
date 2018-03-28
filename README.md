@@ -5,6 +5,10 @@ socks5 convert git protocol
 ```
 make
 ```
+that will be create named connect exec file
+```
+connect
+```
 
 ## use for git protocol
 ```
